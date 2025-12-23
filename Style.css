@@ -57,7 +57,7 @@ body {
     justify-content: center;
     align-items: center;
     justify-items: center;
-    background-image: url(asset/back.jpg);
+    background-image: url(back.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -221,7 +221,7 @@ body {
 .food-menu .food-menu-container .menu .menu-img {
     width: 300px;
     height: 300px;
-    background-image: url(asset/food-menu1.jpg);
+    background-image: url(food-menu1.jpg);
     background-repeat: no-repeat;
     background-size: 150%;
     background-position: center;
@@ -254,23 +254,23 @@ body {
 
 
 .food-menu .food-menu-container .menu .menu2 {
-    background-image: url(asset/food-menu2.jpg);
+    background-image: url(food-menu2.jpg);
     background-size: 100%;
 }
 
 
 .food-menu .food-menu-container .menu .menu3 {
-    background-image: url(asset/food-menu3.jpg);
+    background-image: url(food-menu3.jpg);
     background-size: 100%;
 }
 
 .food-menu .food-menu-container .menu .menu4 {
-    background-image: url(asset/food-menu4.jpg);
+    background-image: url(food-menu4.jpg);
     background-size: 130%;
 }
 
 .food-menu .food-menu-container .menu .menu5 {
-    background-image: url(asset/food-menu5.jpg);
+    background-image: url(food-menu5.jpg);
     background-size: 100%;
 }
 
@@ -325,7 +325,7 @@ body {
     border-radius: 50%;
     width: 250px;
     height: 250px;
-    background-image: url(asset/male-photo1.jpg);
+    background-image: url(male-photo1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 0px -40px;
@@ -339,12 +339,12 @@ body {
 
 
 .social-feedback .social-feedback-container .customer-feedback .female {
-    background-image: url(asset/female-photo1.jpg);
+    background-image: url(female-photo1.jpg);
     background-position: center;
 }
 
 .social-feedback .social-feedback-container .customer-feedback .male2 {
-    background-image: url(asset/male-photo3.jpg);
+    background-image: url(male-photo3.jpg);
     background-position: center;
 }
 
@@ -373,7 +373,7 @@ body {
 .contact-us .contact-us-container .photo-decoration {
     height: 97%;
     width: 100%;
-    background-image: url(asset/restraunt2.jpg);
+    background-image: url(restraunt2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -443,5 +443,6 @@ footer {
     text-align: center;
     font-weight: 600;
     padding: 15px 0px;
+
 
 }
